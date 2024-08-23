@@ -183,5 +183,6 @@ When you are working on a project, you are encouraged to back up your work by up
 # Optional: Creative Mode 
 
 1. Help me update this tutorial by adding photos, rewording confusing text, adding troubleshooting sections, etc.
-2. Create a poster to display relevant GitHub CLI commands. We have access to a poster printer so I can actually hang it up in our classroom.
+2. Explore the VSCode GitHub extensions and add a section to this README about how to set it up.
+3. Create a poster to display relevant GitHub CLI commands. We have access to a poster printer so I can actually hang it up in our classroom.
 
